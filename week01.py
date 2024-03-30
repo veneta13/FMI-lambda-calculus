@@ -23,7 +23,7 @@ c_true = k
 c_false = lambda x: id
 
 
-cs = lambda n: lambda f: lambda x: f(n(f)(x
+cs = lambda n: lambda f: lambda x: f(n(f)(x)
 # cs(c(2))
 
 def to_int(cn):
